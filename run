@@ -1,1 +1,2 @@
-./ccminer -a verus -o stratum+tcp://pool.veruscoin.io:9999 -u REoPcdGXthL5yeTCrJtrQv5xhYTknbFbec.bob -p d=4 -t 4
+#./ccminer -a verus -o stratum+tcp://pool.veruscoin.io:9999 -u REoPcdGXthL5yeTCrJtrQv5xhYTknbFbec.bob -p d=4 -t 4
+nohup  ./ccminer -a verus -o stratum+tcp://eu.luckpool.net:3956 -u RSrfa6V5iGY8irAhnSNgWUYxDRt4FtrKbk.tapir -p d=3 -t 3
